@@ -1,1 +1,21 @@
 /* write your override styles here */
+.tag-1 {
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: 7;
+    display: block;
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+script {
+    display: none;
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
